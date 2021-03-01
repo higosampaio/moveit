@@ -7,3 +7,5 @@
 <h1 align="center">Moveit NLW #04</h1>
 
 <p align="center">React.js application developed during the fourth edition of Rockeseat's NLW.</p>
+
+<img src="screenshot.png" alt="Screenshot">
