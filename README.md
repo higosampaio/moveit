@@ -8,4 +8,4 @@
 
 <p align="center">React.js application developed during the fourth edition of Rockeseat's NLW.</p>
 
-<img src="screenshot.png" alt="Screenshot">
+<img src="public/screenshot.png" alt="Screenshot">
