@@ -5,7 +5,7 @@
   <img alt="CSS3 Badge" src="https://img.shields.io/badge/-css3-important?style=for-the-badge&color=1572B6&logo=css3&logoColor=white" />
 </p>
 
-<h1 align="center">Moveit NLW #04</h1>
+<h1 align="center">Moveit</h1>
 
 <p align="center">React.js application developed during the fourth edition of Rockeseat's NLW.</p>
 
