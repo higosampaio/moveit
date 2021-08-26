@@ -8,5 +8,5 @@
 <h3 align="center">Moveit</h3>
 
 <p align="center">
-  React.js application developed during the fourth edition of Rockeseat's NLW.
+  Application to manage your working time. 
 </p>
